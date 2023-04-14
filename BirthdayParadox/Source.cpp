@@ -2,6 +2,11 @@
 #include<limits>
 #include <iomanip>
 
+/*
+*4/13/2023
+*Still need to validate when user enters a fraction such as 4/5, 22/3, etc 
+*/
+
 using namespace std;
 
 int main() {
